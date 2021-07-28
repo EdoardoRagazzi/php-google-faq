@@ -22,11 +22,21 @@ Gestire il “Database” e la visualizzazione di queste domande e risposte con 
        </div>
        <nav class="navbar navbar-light ">
             <div class="container-fluid">
+                <div class="tag">
                 <a class="navbar-brand" href="#">Overview</a>
+                </div>
+                <div class="tag">
                 <a class="navbar-brand" href="#">Privacy Policy</a>
+                </div>
+                <div class="tag">
                 <a class="navbar-brand" href="#">Terms of Service</a>
+                </div>
+                <div class="tag">
                 <a class="navbar-brand" href="#">Technologies</a>
+                </div>
+                <div class="tag">
                 <a class="navbar-brand" href="#">FAQ</a>
+                </div>
             </div>
         </nav>
    </header>
