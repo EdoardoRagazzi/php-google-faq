@@ -26,5 +26,14 @@ h1{
 nav{
     height: 50px;
     width: 100%;
-    border-top: 1px solid #5F6368 ;
+    border-bottom: 1px solid #5F6368 ;
+}
+a:hover{
+    border-bottom: 2px solid black
+
+}
+.container{
+    margin: auto;
+    width: 70%;
+    margin-top: 200px;
 }
